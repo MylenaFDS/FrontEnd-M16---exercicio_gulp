@@ -1,4 +1,5 @@
 {
     "git.ignoreLimitWarning": true,
-    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: master]"
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: exercicio_gulp]",
+    "liveServer.settings.port": 5501
 }
